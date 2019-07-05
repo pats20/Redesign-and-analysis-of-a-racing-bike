@@ -1,6 +1,7 @@
 # Redesign-and-analysis-of-a-racing-bike
 
 
+![alt text](https://github.com/pats20/Redesign-and-analysis-of-a-racing-bike/blob/master/Images/bike.JPG)
 
 ## Project Description
 •	Designed and modelled a racing bike using a CAD tool in SolidWorks<br/>
