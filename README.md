@@ -1,4 +1,4 @@
-# Redesign-and-analysis-of-a-racing-bike
+# Redesign and analysis of a racing bike
 
 
 ![alt text](https://github.com/pats20/Redesign-and-analysis-of-a-racing-bike/blob/master/Images/bike.JPG)
